@@ -223,7 +223,7 @@ hr {
   padding: 12px 16px;
   width: 100%;
   color: #fff;
-  background-color: #ff6b00;
+  background-color: #9c2200;
   text-align: center;
   font-size: 18px;
   transition: all 0.5s ease-out;
@@ -237,7 +237,7 @@ hr {
   display: block;
   padding: 12px 16px;
   color: #fff;
-  background-color: #ff6b00;
+  background-color: #9c2200	;
   text-align: center;
   font-size: 18px;
   transition: all 0.5s ease-out;
@@ -246,7 +246,7 @@ hr {
 .project-btn:hover,
 .project-btn-1:hover {
   background-color: #fff5e1;
-  color: #ff6b00;
+  color: #9c2200;
 }
 
 .project-btn:active,
@@ -270,7 +270,7 @@ hr {
 }
 
 .item ul li {
-  background-color: gray;
+  background-color: rgb(73, 73, 73);
   border: 1px solid rgb(202, 190, 190);
   padding: 8px;
   margin-right: 8px;
@@ -318,25 +318,26 @@ hr {
 
 .res-btn:hover {
   background-color: #fff5e1;
-  color: #ff6b00;
+  color: #9c2200;
 }
 
 .res-btn:active {
-  background-color: #e05304;
+  background-color: #fff5e1;
+  color: #000;
 }
 
 .res-btn:disabled {
   background-color: #f4f1f0;
 }
 
-.about-me h1 {
+.about-me h2 {
   font-family: "crete Round", sans-serif;
   font-weight: 400;
   font-size: 60px;
   letter-spacing: 0.31px;
   line-height: 88px;
   margin-bottom: 12px;
-  text-align: center;
+
 }
 
 section .skill-container {
@@ -431,7 +432,7 @@ textarea {
 }
 
 .contact button {
-  background: #ff6b00;
+  background: #9c2200;
   padding: 12px;
   width: 131px;
   height: 48px;
@@ -445,14 +446,15 @@ textarea {
 }
 
 .contact button:hover {
-  color: #ff6b00;
+  color: #900;
   background: #fff5e1;
-  border: 1px solid #f55800;
+  border: 1px solid #900;
   box-sizing: border-box;
 }
 
 .contact button:active {
-  background-color: #e05304;
+  background-color: #9c2200;
+  color: #fff;
 }
 
 .contact button:disabled {
@@ -628,7 +630,7 @@ textarea {
 
   .item .project-btn:hover {
     background-color: #fff5e1;
-    color: #ff6b00;
+    color: #900;
   }
 
   .box:hover {
@@ -732,6 +734,7 @@ textarea {
     margin: auto;
     padding: 0;
     grid-template-columns: auto auto auto;
+    column-gap: 2%;
   }
 
   .skill {
