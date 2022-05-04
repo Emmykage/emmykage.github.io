@@ -307,7 +307,7 @@ hr {
 .res-btn {
   display: flex;
   padding: 12px 16px;
-  background-color: #ff2200;
+  background-color: #900;
   font-size: 18px;
   color: #fff;
   font-family: "inter", sans-serif;
@@ -320,6 +320,9 @@ hr {
 .res-btn:hover {
   background-color: #fff5e1;
   color: #9c2200;
+}
+.res-btn:focus{
+  background-color: #900;
 }
 
 .res-btn:active {
