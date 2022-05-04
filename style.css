@@ -639,27 +639,27 @@ textarea {
   }
 
   .item:nth-child(3) {
-    background-image: url(image/Img_Placeholder_3.svg);
+    background-image: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url(image/Img_Placeholder_3.svg);
     height: 435px;
   }
 
   .item:nth-child(4) {
-    background-image: url(image/Img_Placeholder_4.svg);
+    background-image:  linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url(image/Img_Placeholder_4.svg);
     height: 435px;
   }
 
   .item:nth-child(5) {
-    background-image: url(image/Img_Placeholder_5.svg);
+    background-image: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url(image/Img_Placeholder_5.svg);
     height: 435px;
   }
 
   .item:nth-child(6) {
-    background-image: url(image/Img_Placeholder_6.svg);
+    background-image:  linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url(image/Img_Placeholder_6.svg);
     height: 435px;
   }
 
   .item:nth-child(7) {
-    background-image: url(image/Img_Placeholder_7.svg);
+    background-image: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url(image/Img_Placeholder_7.svg);
     height: 435px;
   }
 
