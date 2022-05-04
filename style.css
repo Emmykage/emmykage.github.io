@@ -323,6 +323,7 @@ hr {
 }
 .res-btn:focus{
   background-color: #900;
+  color:#f4f1f0;
 }
 
 .res-btn:active {
